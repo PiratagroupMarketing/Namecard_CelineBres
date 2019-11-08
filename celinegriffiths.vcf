@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Griffiths;Sophie;;;
-FN: Sophie  Griffiths 
+N:Celine;Bres;;;
+FN: Celine  Bres 
 ORG:PirataGroup;
-TITLE:Head of Guest Relations\n Guest Relations Department
-EMAIL;type=INTERNET;type=WORK;type=pref:sophie@piratagroup.hk
-TEL;type=WORK;type=VOICE:+852 6713 8813
-item1.ADR;type=WORK;type=pref:;;1/F, The Factory,\nNo. 1 Yip Fat Street, \nWong Chuk Hang;;;;Hong Kong
+TITLE:Meats Floor Manager
+EMAIL;type=INTERNET;type=WORK;type=pref:celine@piratameats.hk
+TEL;type=WORK;type=VOICE:+852 6203 5161
+item1.ADR;type=WORK;type=pref:;;G/F 28 – 30\nStaunton Street, Soho\nCentral;;;;Hong Kong
 item1.X-ABADR:sg
 item2.URL;type=pref:piratagroup.hk
 item2.X-ABLabel:_$!<HomePage>!$_
